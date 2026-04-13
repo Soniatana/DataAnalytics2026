@@ -1,3 +1,0 @@
-/*
-Sakila is a database used to collect information and used for queries
-*/
