@@ -1,0 +1,122 @@
+[
+	{
+		"Id" : 1,
+		"Start time" : "4/8/2026 21:48",
+		"Completion time" : "4/8/2026 21:50",
+		"Email" : "vordonez@my.yearupunited.org",
+		"Name" : "victoria ordonez",
+		"How often do you visit us?" : "Weekly;",
+		"What do you usually order?" : "Food ;",
+		"How would you rate your overall experience? (Rating 1–5)" : "5",
+		"What could we improve? (Text answer)" : "",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "Maybe"
+	},
+	{
+		"Id" : 2,
+		"Start time" : "4/8/2026 21:53",
+		"Completion time" : "4/8/2026 21:54",
+		"Email" : "tzergaw@my.yearupunited.org",
+		"Name" : "tihitina zergaw",
+		"How often do you visit us?" : "Weekly;",
+		"What do you usually order?" : "Both;",
+		"How would you rate your overall experience? (Rating 1–5)" : "4",
+		"What could we improve? (Text answer)" : "Customer service ",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "Yes"
+	},
+	{
+		"Id" : 3,
+		"Start time" : "4/8/2026 21:54",
+		"Completion time" : "4/8/2026 21:55",
+		"Email" : "smelgara@my.yearupunited.org",
+		"Name" : "smaya melgara",
+		"How often do you visit us?" : "Monthly;",
+		"What do you usually order?" : "Both;",
+		"How would you rate your overall experience? (Rating 1–5)" : "5",
+		"What could we improve? (Text answer)" : "None",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "Yes"
+	},
+	{
+		"Id" : 4,
+		"Start time" : "4/8/2026 22:41",
+		"Completion time" : "4/8/2026 22:42",
+		"Email" : "cpalacios@my.yearupunited.org",
+		"Name" : "charles palacios",
+		"How often do you visit us?" : "Monthly;",
+		"What do you usually order?" : "Both;",
+		"How would you rate your overall experience? (Rating 1–5)" : "5",
+		"What could we improve? (Text answer)" : "Nothing! My experience was amazing and I cannot wait to come back!",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "Yes"
+	},
+	{
+		"Id" : 5,
+		"Start time" : "4/9/2026 0:59",
+		"Completion time" : "4/9/2026 0:59",
+		"Email" : "amartinez3@my.yearupunited.org",
+		"Name" : "alondra martinez",
+		"How often do you visit us?" : "Weekly;",
+		"What do you usually order?" : "Drink;",
+		"How would you rate your overall experience? (Rating 1–5)" : "the service is always phenomenal",
+		"What could we improve? (Text answer)" : "n/a",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "Yes"
+	},
+	{
+		"Id" : 6,
+		"Start time" : "4/9/2026 9:53",
+		"Completion time" : "4/9/2026 9:54",
+		"Email" : "achanthadara@my.yearupunited.org",
+		"Name" : "alexus chanthadara",
+		"How often do you visit us?" : "Seasonal;",
+		"What do you usually order?" : "Food ;",
+		"How would you rate your overall experience? (Rating 1–5)" : "4",
+		"What could we improve? (Text answer)" : "",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "No"
+	},
+	{
+		"Id" : 7,
+		"Start time" : "4/9/2026 10:22",
+		"Completion time" : "4/9/2026 10:23",
+		"Email" : "BHambleton@YearUp.org",
+		"Name" : "Bess Hambleton",
+		"How often do you visit us?" : "Weekly;",
+		"What do you usually order?" : "Drink;",
+		"How would you rate your overall experience? (Rating 1–5)" : "4.5",
+		"What could we improve? (Text answer)" : "more cushy chairs",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "Maybe"
+	},
+	{
+		"Id" : 8,
+		"Start time" : "4/9/2026 11:33",
+		"Completion time" : "4/9/2026 11:35",
+		"Email" : "dbaptiste@my.yearupunited.org",
+		"Name" : "daniel baptiste",
+		"How often do you visit us?" : "Weekly;",
+		"What do you usually order?" : "Drink;",
+		"How would you rate your overall experience? (Rating 1–5)" : "5",
+		"What could we improve? (Text answer)" : "I wish I can order ahead of time and pick up in store.",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "Yes"
+	},
+	{
+		"Id" : 9,
+		"Start time" : "4/9/2026 12:54",
+		"Completion time" : "4/9/2026 12:55",
+		"Email" : "somer@my.yearupunited.org",
+		"Name" : "samia omer",
+		"How often do you visit us?" : "Seasonal;",
+		"What do you usually order?" : "Food ;",
+		"How would you rate your overall experience? (Rating 1–5)" : "5",
+		"What could we improve? (Text answer)" : "N/A",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "Maybe"
+	},
+	{
+		"Id" : 10,
+		"Start time" : "4/9/2026 13:10",
+		"Completion time" : "4/9/2026 13:10",
+		"Email" : "callen@my.yearupunited.org",
+		"Name" : "corey allen",
+		"How often do you visit us?" : "Seasonal;Monthly;Daily;Weekly;",
+		"What do you usually order?" : "Food ;Drink;Both;Other;",
+		"How would you rate your overall experience? (Rating 1–5)" : "7",
+		"What could we improve? (Text answer)" : "Nothing",
+		"Would you join a rewards/loyalty program? (Multiple choice)" : "Maybe"
+	}
+]
