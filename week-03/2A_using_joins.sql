@@ -13,7 +13,7 @@ ORDER BY c.CategoryName, p.ProductName;
 
 -- Q2
 SELECT 
-    p.ProductID,
+    p.ProductID,products
     p.ProductName,
     p.UnitPrice,
     s.CompanyName
@@ -72,3 +72,14 @@ JOIN `Order Details` od
 JOIN Products p
     ON od.ProductID = p.ProductID
 WHERE p.ProductName = 'Sasquatch Ale';
+
+SELECT * 
+FROM products 
+WHERE ProductName = 'Sasquatch Ale';
+
+SELECT * 
+FROM products 
+WHERE ProductName = 'Sasquatch Ale';
+
+SELECT *
+FROM product;
