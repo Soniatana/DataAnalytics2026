@@ -1,0 +1,20 @@
+#formula Net Worth = Total Assets - Total Debts
+
+# Assets
+cash = 5000
+car_value = 8000
+savings = 12000
+
+# Debts
+credit_card = 2000
+student_loan = 10000
+
+# Calculations
+total_assets = cash + car_value + savings
+total_debts = credit_card + student_loan
+net_worth = total_assets - total_debts
+
+# Output
+print("Your total assets are " + str(total_assets))
+print("Your total debts are " + str(total_debts))
+print("Your net worth is " + str(net_worth))
