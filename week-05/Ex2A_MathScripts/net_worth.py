@@ -1,5 +1,3 @@
-#formula Net Worth = Total Assets - Total Debts
-
 # Assets
 cash = 5000
 car_value = 8000
