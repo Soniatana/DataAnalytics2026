@@ -1,0 +1,203 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "920cb6d0-5438-438d-9c25-4c30e6fdaf22",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Exercise 2.A Using built-in functions\n",
+    "\n",
+    "## Lab 1. Working with names - parsing strings"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "cf3f5d8b-50f3-47c6-b0de-121a2d3c0f64",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test_name = 'John Doe'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "37234506-934f-4ccf-a32b-a34e4df6e18d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def parse_and_display(name):\n",
+    "    for i in range(len(name)):\n",
+    "        if name[i] == ' ':\n",
+    "            first = name[:i]\n",
+    "            last = name[i+1:]\n",
+    "\n",
+    "            print(f\"Full name: {name}\")\n",
+    "            print(f\"First name: {first}\")\n",
+    "            print(f\"Last name: {last}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "5c9dd7dc-ac0e-46d5-aeb4-45750c53f3ea",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Full name: John Doe\n",
+      "First name: John\n",
+      "Last name: Doe\n"
+     ]
+    }
+   ],
+   "source": [
+    "parse_and_display(test_name)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "0b02f3fe-f68c-49ac-90b0-7effd4f5a0ff",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "test_list = ['Grace Flores', 'JB Oinonen', 'Ken Penn']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "2ee3ce07-f05f-4410-9339-bc6d2d82fb21",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Full name: Grace Flores\n",
+      "First name: Grace\n",
+      "Last name: Flores\n"
+     ]
+    }
+   ],
+   "source": [
+    "parse_and_display(test_list[0])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "5c320675-a1be-4ca4-a00b-c4d41eac1828",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Full name: Grace Flores\n",
+      "First name: Grace\n",
+      "Last name: Flores\n"
+     ]
+    }
+   ],
+   "source": [
+    "parse_and_display(test_list[0])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "f88b7c51-df20-4c6d-9177-087af8b76f15",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Full name: JB Oinonen\n",
+      "First name: JB\n",
+      "Last name: Oinonen\n"
+     ]
+    }
+   ],
+   "source": [
+    "parse_and_display(test_list[1])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "07ddb380-d4d3-4f45-bd3c-8712b95d0c9b",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Full name: Ken Penn\n",
+      "First name: Ken\n",
+      "Last name: Penn\n"
+     ]
+    }
+   ],
+   "source": [
+    "parse_and_display(test_list[2])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "57b437af-b385-4469-a62d-1628e41e7930",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Full name: Sonia Tana\n",
+      "First name: Sonia\n",
+      "Last name: Tana\n"
+     ]
+    }
+   ],
+   "source": [
+    "parse_and_display('Sonia Tana')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "bd9b53cf-86f2-439d-bd4f-232137854fd6",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
